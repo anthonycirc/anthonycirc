@@ -1,6 +1,6 @@
-# Hi, I'm Anthony 👋 - Senior Backend Developer
+# Hi, I'm Anthony 👋 — Senior Backend Developer
 
-> I build robust, maintainable backends with **Python / Django** - and I care deeply about **clean architecture, good practices, and code that lasts**.
+> I build robust, maintainable backends with **Python / Django** — and I care deeply about **clean architecture, good practices, and code that lasts**.
 
 ---
 
@@ -52,5 +52,5 @@ Before tools, **principles** :
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/TON-PROFIL)
-[![Malt](https://img.shields.io/badge/Malt-FF6B6B?style=flat)](https://www.malt.fr/profile/TON-PROFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anthony-daverio/)
+[![Malt](https://img.shields.io/badge/Malt-FF6B6B?style=flat)](https://www.malt.fr/profile/anthonydaverio)
