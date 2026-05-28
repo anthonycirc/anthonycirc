@@ -54,3 +54,4 @@ Before tools, **principles** :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anthony-daverio/)
 [![Malt](https://img.shields.io/badge/Malt-FF6B6B?style=flat)](https://www.malt.fr/profile/anthonydaverio)
+[![Blog](https://dev-flow.io)
