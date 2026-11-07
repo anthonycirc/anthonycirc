@@ -1,10 +1,3 @@
-<a href="https://circonflex.fr">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/mark-dark.svg">
-    <img alt="circonflex" src="assets/mark-light.svg" width="72">
-  </picture>
-</a>
-
 ### Freelance Python and Django backend developer, based in Barcelona.
 
 **Code that holds up first, AI agents second.** FastAPI, Flask and Go, then Pydantic AI and MCP servers.
@@ -22,29 +15,27 @@ AI sits on a framework. I build the framework first: an agent plugged into a fra
 
 #### Stack
 
-**Backend — Python (primary)**
+**Backend**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/DRF-red?style=flat&logo=django&logoColor=white)
 ![Django Ninja](https://img.shields.io/badge/Django%20Ninja-009688?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
-**Backend — Go (secondary)**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-**AI-native**
+**AI-native**  
 ![Pydantic AI](https://img.shields.io/badge/Pydantic%20AI-E92063?style=flat&logo=pydantic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-191919?style=flat&logo=anthropic&logoColor=white)
 
-**Frontend (secondary)**
+**Frontend**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
 
-**Tooling & Infrastructure**
+**Tooling & Infrastructure**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
