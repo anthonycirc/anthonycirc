@@ -8,10 +8,10 @@ AI sits on a framework. I build the framework first: an agent plugged into a fra
 
 #### What I build
 
-- **Python** — Django and DRF APIs, typed async services with FastAPI and Pydantic, lean Flask services and migrations.
-- **Go** — fast, sober services with the same bar for tests and architecture.
-- **Architecture and quality** — hexagonal architecture when the domain calls for it, SOLID, Clean Code, test-first.
-- **AI-native** — Pydantic AI agents with validated, tested outputs; MCP servers that expose your data and tools with controlled permissions.
+- **Python** - Django and DRF APIs, typed async services with FastAPI and Pydantic, lean Flask services and migrations.
+- **Go** - fast, sober services with the same bar for tests and architecture.
+- **Architecture and quality** - hexagonal architecture when the domain calls for it, SOLID, Clean Code, test-first.
+- **AI-native** - Pydantic AI agents with validated, tested outputs; MCP servers that expose your data and tools with controlled permissions.
 
 #### Stack
 
