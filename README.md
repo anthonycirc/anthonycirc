@@ -1,4 +1,4 @@
-### Freelance Python and Django backend developer, based in Barcelona.
+### Freelance Python, Django and Go backend developer, based in Barcelona.
 
 **Code that holds up first, AI agents second.** FastAPI, Flask and Go, then Pydantic AI and MCP servers.
 
